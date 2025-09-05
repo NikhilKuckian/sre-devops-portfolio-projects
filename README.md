@@ -3,7 +3,6 @@ This repository showcases my hands-on projects in **Linux, Python, AWS, Terrafor
 Each project includes:
 - Working code
 - Documentation (README)
-- Interview flashcards
 ## 📂 Project Categories
 - `linux-shell/` → Shell scripting & automation
 - `python/` → Python scripting for DevOps
