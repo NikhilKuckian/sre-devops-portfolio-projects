@@ -1,5 +1,6 @@
 # SRE, DevOps & Cloud Engineering Portfolio
-This repository showcases my hands-on projects in **Linux, Python, AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, and CI/CD**.  
+This repository showcases my hands-on projects in **Linux, Python, AWS, Terraform, Docker, Kubernetes, Jenkins, Ansible, and CI/CD**.
+
 Each project includes:
 - Working code
 - Documentation (README)
