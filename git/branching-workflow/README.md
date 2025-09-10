@@ -18,7 +18,6 @@ The strategy prevents broken code from reaching production and ensures proper co
 - Fits well with Jenkins/GitHub Actions CI pipelines
 ## 🧠 Interview Angle
 **Q: How do you manage Git workflows in a DevOps team?**  
-**A:**
-- Use branching model with `main` (prod), `dev` (integration), and `feature/*` (task).  
-- Protect `main` branch, require PRs + approvals.  
+**A:**- Use branching model with `main` (prod), `dev` (integration), and `feature/*` (task).  
+- Protect `main` branch, require PRs + approvals.
 - Combined with CI/CD, this ensures only tested code reaches production.
